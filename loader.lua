@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/Jestercpp/scriptkiddie/blob/main/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jestercpp/scriptkiddie/refs/heads/main/loader.luau"))()
